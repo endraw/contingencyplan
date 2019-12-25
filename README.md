@@ -1,7 +1,7 @@
 # repositorylimb2
 
 
-<a href="https://endraw.github.com/repositorylimb2/1sthtml1.1/index.html">What's my domain for contingencyplan?</a>
+<a href="https://endraw.github.io/repositorylimb2/1sthtml1.1/index.html">What's my domain for contingencyplan?</a>
 
 <a href="https://github.com/repositorylimb2/1sthtml1.1/index.html">contingencyplan?</a>
 
