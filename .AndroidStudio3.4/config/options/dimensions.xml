@@ -1,0 +1,23 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1360.768" x="687" y="351" />
+    <location key="SettingsEditor.0.0.1360.768" x="174" y="0" />
+    <location key="FileChooserDialogImpl.0.0.1360.768" x="444" y="104" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1360.768" x="134" y="38" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1360.768" x="368" y="212" />
+    <location key="run.anything.popup.0.0.1360.768" x="336" y="167" />
+    <location key="search.everywhere.popup.0.0.1360.768" x="263" y="284" />
+    <location key="run.anything.popup.1360.0.1366.768" x="1699" y="157" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.1360.0.1366.768" x="1497" y="18" />
+    <location key="deploy.picker.dialog.0.0.1360.768" x="360" y="138" />
+    <location key="#Notifications.0.0.1360.768" x="429" y="113" />
+    <location key="ProcessPopupWindow.0.0.1360.768" x="958" y="584" />
+    <location key="AndroidCreateXmlResourceDialog.0.0.1360.768" x="538" y="196" />
+    <size key="search.everywhere.popup.0.0.1360.768" width="672" height="678" />
+    <size key="ProcessPopupWindow.0.0.1360.768" width="400" height="190" />
+    <size key="GridCell.Tab.0.left.0.0.1360.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.1360.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.1360.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.1360.768" width="0" height="0" />
+  </component>
+</application>
