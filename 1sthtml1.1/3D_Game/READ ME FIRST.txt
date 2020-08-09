@@ -1,0 +1,24 @@
+Welcome to the prequel beta for Mti Mkubwa, the Summit Level!
+
+To play, right click on the index.html file and open with either FireFox, Microsoft Edge, or Google Chrome.
+Note: You may want to toggle off ("Esc" key) the desktop pointer if your favorite browser gives you the option.
+
+
+		--==CONTROLS==--
+
+	To Walk = press and hold the "w" key, this will make you walk forward
+
+	To Walk Backwards = press and hold the "s" key
+
+	Sidestep Left = hold "a" key
+
+	Sidestep Right = hold "d" key
+
+	Run (2x walk speed) = hold "Shift" key and "w", "s", "a", or "d" key
+
+	Jump = tap the spacebar
+
+these are standard first person computer controls
+
+
+	OBJECTIVE: Make it to the top of the mountain.

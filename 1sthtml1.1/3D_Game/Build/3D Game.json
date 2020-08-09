@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Mti Mkubwa",
+"dataUrl": "3D Game.data.unityweb",
+"asmCodeUrl": "3D Game.asm.code.unityweb",
+"asmMemoryUrl": "3D Game.asm.memory.unityweb",
+"asmFrameworkUrl": "3D Game.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
