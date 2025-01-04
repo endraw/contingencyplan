@@ -7,7 +7,7 @@ repository limb2
 # Objectives: 1. Rename My site<a/>
 # 2. YouTube how to make and run a Static domain<a/>
 
-# 3. Things to type Objectives: 4. ensure my correct IIBA Certification is displayed with<a/> 5. a fakie sig ... of Not My Name (but yet my initials), somewhere at the end of the website credentials, this is to ensure against forgary and/or fraud. (see subnote)<a/>
+# 3. Things to type Objectives: 4. ensure my correct IIBA Certification is displayed with<a/> 5. a fakie sig ... of Not My Name (but yet my initials), somewhere at the end of the website credentials, this is to ensure against forgery and/or fraud. (see subnote)<a/>
 # 6. Ensure EVERY file including Copyrights/Trademarks/and full Rights Reserved icon, for logo, pictures, backgrounds, boarder designs, banners, titlebars/ribbons, frames and etc, etc ... (see subnotes)<a/>
 # Make These Art(s), Objectives: 1. items.boarder to make<a/>
 # 2. make a colored background endraw theme that works wt the borders<a/>
