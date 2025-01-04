@@ -7,11 +7,11 @@ repository limb2
 # Objectives: 1. Rename My site<a/>
 # 2. YouTube how to make and run a Static domain<a/>
 
-# Things to type Objectives: 1. ensure my correct IIBA Certification is displayed with<a/> 2. a fakie sig ... of Not My Name (but yet my initials), somewhere at the end of the website credentials, this is to ensure against forgary and/or fraud. (see subnote)<a/>
-# 3. Ensure EVERY file including Copyrights/Trademarks/and full Rights Reserved icon, for logo, pictures, backgrounds, boarder designs, banners, titlebars/ribbons, frames and etc, etc ... (see subnote)
-# Make These Art(s) Objectives: 1. items.boarder to make<a/>
-# 2. make a colored background endraw and theme/borders<a/>
+# 3. Things to type Objectives: 4. ensure my correct IIBA Certification is displayed with<a/> 5. a fakie sig ... of Not My Name (but yet my initials), somewhere at the end of the website credentials, this is to ensure against forgary and/or fraud. (see subnote)<a/>
+# 6. Ensure EVERY file including Copyrights/Trademarks/and full Rights Reserved icon, for logo, pictures, backgrounds, boarder designs, banners, titlebars/ribbons, frames and etc, etc ... (see subnotes)<a/>
+# Make These Art(s), Objectives: 1. items.boarder to make<a/>
+# 2. make a colored background endraw theme that works wt the borders<a/>
 # 3. make/colorize a custom website hit-counter<a/>
 # 4. do a blog trial run after choosing a secret admin pass<a/>
-# 5... do last the last touch-ups then...<a/>
+# 5... do the last touch-ups then...<a/>
 # 6. *display* Hello again to "the whole wide world." quote - Unknown<a/>
