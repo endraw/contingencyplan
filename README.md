@@ -8,9 +8,7 @@ repository limb2
 # objectives: rename My site<a/>
 # YouTube how to make and run a Static domain<a/>
 
-# things to type<a/>
-
-# ensure my correct IIBA Certification is displayed with a fakie sig ... of Not My Name (but yet my initials) somewhere at the end of the site, this is to ensure against forgary or fraud by creating a "trace-note" -like coined (eg: an .png signiture file [with watermark] image/design to trace-theft of artistic-digital property).<a/>
+# things to type: ensure my correct IIBA Certification is displayed with a fakie sig ... of Not My Name (but yet my initials) somewhere at the end of the site, this is to ensure against forgary or fraud by creating a "trace-note" -like coined (eg: an .png signiture file [with watermark] image/design to trace-theft of artistic-digital property).<a/>
 # ensure EVERY Copyright/Trademark/and full Rights Reserved icon, logo , picture, background, boardrr, banner, title/banner/ribbon, frame, .. etc ... all have trace-note "watermarks" randomly across them, is to be included, (possibly use filetypes .svg or .png ... for now.<a/>
 
 # MAKE THESE ART eg: items.boarder to make<a/>
