@@ -2,14 +2,15 @@
 
 repository limb2
 
-# overall objectives: rmbr in the end we want to make it as a site that is viewable (capable through android studio) ... to create/amalgamate My github.io website with a frontend site & logo on any cellphone (like a web portal on everything like iphones and androids including all screen sizes)<a/>
+# pin. Overall Objectives: Remember in the end we want to make it a website that is also viewable (capable through android studio) ... along with full abillity to create/amalgamate My github.io website with My frontend site & logo, on any cellphone screen (ie. like a web portal on everything including iphones and androids and auto-adjust with all screen sizes)<a/>
 
 
-# objectives: rename My site<a/>
-# YouTube how to make and run a Static domain<a/>
+# Objectives: 1. Rename My site<a/>
+# 2. YouTube how to make and run a Static domain<a/>
 
-# things to type: ensure my correct IIBA Certification is displayed with a fakie sig ... of Not My Name (but yet my initials) somewhere at the end of the site, this is to ensure against forgary or fraud by creating a "trace-note" -like coined (eg: an .png signiture file [with watermark] image/design to trace-theft of artistic-digital property).<a/>
-# ensure EVERY Copyright/Trademark/and full Rights Reserved icon, logo , picture, background, boardrr, banner, title/banner/ribbon, frame, .. etc ... all have trace-note "watermarks" randomly across them, is to be included, (possibly use filetypes .svg or .png ... for now.<a/>
+# things to type: 1. ensure my correct IIBA Certification is displayed with 2. a fakie sig ... of Not My Name (but yet my initials), somewhere at the end of the website credentials, this is to ensure against forgary and/or fraud. (see subnote)<a/>
+# (cut and subnote this) On My own website; the fake signature is permitted (by me) and works by creating a "trace-note" -coined trace like way to well as an eg: a .png signiture file [with watermark] image/design makes it capable to trace theft of artistic-digital property).<a/>
+# Ensure EVERY file including Copyrights/Trademarks/and full Rights Reserved icon, for logo, pictures, backgrounds, boarder designs, banners, titlebars/ribbons, frames and etc, etc ... (subnote All picture files are to have trace-note-like "watermarks" randomly across them, is to be included, (possibly use filetypes .svg or .png ... for now.<a/>
 
 # MAKE THESE ART eg: items.boarder to make<a/>
 
