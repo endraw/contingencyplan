@@ -11,7 +11,7 @@ repository limb2
 # (cut and subnote this) On My own website; the fake signature is permitted (by me) and works by creating a "trace-note" -coined trace like way to well as an eg: a .png signiture file [with watermark] image/design makes it capable to trace theft of artistic-digital property).<a/>
 # 3. Ensure EVERY file including Copyrights/Trademarks/and full Rights Reserved icon, for logo, pictures, backgrounds, boarder designs, banners, titlebars/ribbons, frames and etc, etc ... (subnote All picture files are to have trace-note-like "watermarks" randomly across them, is to be included), make sure they are clearly findable (possibly use filetypes .svg or .png ... for now.)<a/>
 
-# MAKE THIS ART Objectives: 1. items.boarder to make<a/>
+# Make These Art(s) Objectives: 1. items.boarder to make<a/>
 # 2. make a colored background endraw and theme/borders<a/>
 # 3. make/colorize a custom website hit-counter<a/>
 # 4. do a blog trial run after choosing a secret admin pass<a/>
