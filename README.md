@@ -1,5 +1,7 @@
 # <a href="https://endraw.github.io/contingencyplan/index.html">Contingency Plan website!</a>
 
+# FIRST fix .jason breaches bc they affect 10 repositories hf<a/>
+
 repository limb2
 
 # pin. Overall Objectives: Remember in the end we want to make it a website that is also viewable (capable through android studio) ... along with full ability to create/amalgamate My github.io website with My frontend display-site & logo, on any cellphone screen, (ie. like a web portal on everything, including iphones and androids also auto-adjusting with all screen sizes)<a/>
