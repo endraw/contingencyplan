@@ -1,6 +1,6 @@
 # <a href="https://endraw.github.io/contingencyplan/index.html">Contingency Plan website!</a>
 
-# FIRST fix .jason breaches bc they affect 10 repositories hf<a/>
+# FIRST fix .json breaches bc they affect 10 repositories hf<a/>
 
 repository limb2
 
